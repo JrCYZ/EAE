@@ -1,8 +1,0 @@
-[25268:33912:0521/174917.529:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25268:33912:0521/174917.597:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14312:9140:0521/174929.328:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[33164:35488:0521/174936.536:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E891CF019E488E6C4E48632A0441D356 will be ignored
-[14312:9140:0521/174937.654:WARNING:spdy_session.cc(2717)] Received RST for invalid stream1
-[14312:9140:0521/175705.166:WARNING:spdy_session.cc(2717)] Received RST for invalid stream7
-[14312:9140:0521/180002.595:WARNING:spdy_session.cc(2717)] Received RST for invalid stream1
-[14312:9140:0521/180539.615:WARNING:spdy_session.cc(2717)] Received RST for invalid stream1

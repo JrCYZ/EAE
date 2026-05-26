@@ -1,2 +1,12 @@
 data/
 __pycache__/
+UES_JR_YM/DerivedDataCache/
+
+UES_JR_YM/Intermediate/
+
+UES_JR_YM/Saved/
+
+UES_JR_YM/Binaries/
+
+UES_JR_YM/.vs/
+
